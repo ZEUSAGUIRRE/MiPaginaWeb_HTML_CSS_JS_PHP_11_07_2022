@@ -1,0 +1,11 @@
+#modal{
+    background: red;
+}
+dialog[open] {
+    position: fixed;
+    width: 50%;
+    max-width: 750px;
+    top: 10px;
+}
+
+
